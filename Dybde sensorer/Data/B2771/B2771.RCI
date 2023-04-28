@@ -1,0 +1,55 @@
+	Filename: C:\Software\Star-Oddi\SeaStar\DST milli-F\B2771\B2771.RCI
+	SeaStar 8.39
+	File creation Date & Time: 23.05.2020 21:05:24
+	Recorder type              : DST milli-F
+	Recorder number            : B2771
+	Production number          : 64492771
+	Production date [dd:mm:yy] : 27:09:19
+	Calibration number         : 1
+	Calibration date[dd:mm:yy] : 27:09:19
+
+	Temperature Calibration constants:
+	------------------------------------------------------
+	Temp.C0: 134,553003461056
+	Temp.C1: -0,175925808663515
+	Temp.C2: 0,000148769178532105
+	Temp.C3: -7,75886443493695E-8
+	Temp.C4: 2,10886991677433E-11
+	Temp.C5: -2,41056679912574E-15
+
+	Temperature Calibration range:
+		      Decimal Temp.(°C)/(°F)
+		Min:	2569       -2 /   28
+		Max:	1238       40 /  104
+		Ave.resol.: 31(m°C) / 88(m°F)
+
+	Temperature sensor: Thermistor
+
+	Pressure Calibration constants:
+	------------------------------------------------------
+	Pres.C0: -0,700724271726544
+	Pres.C1: 0,0020830217876371
+	Pres.C2: 6,83088656955449E-8
+	Pres.C3: -4,19693919433227E-11
+	Pres.C4: 1,21148147237952E-14
+	Pres.C5: -1,30569887212107E-18
+
+	Pressure Temperature Regulation constants
+	-------------------------
+	TPR.C1: 0,2380380554106
+	TPR.C2: 0,0516514275441494
+	TPR.C3: -0,00364958927681871
+	TPR.C4: 0,000100158369640776
+	TPR.C5: -1,01547568184766E-6
+
+	Ambient pressure (mBar): 1015
+	Pressure Calibration Temperature reference (°C): 20,54
+
+	Pressure Sensor Type: 2
+	Max pressure tolerance(Bar):0 - 7
+
+	Pressure Calibration range:
+		      Decimal   (Bar) / (m)
+		Min:	 341        0,02       0,2
+		Max:	2718         5,1        52
+		Ave.resol.: 2(mbar)  21(mm)

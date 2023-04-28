@@ -1,0 +1,70 @@
+	Filename: C:\Software\Star-Oddi\SeaStar\DST milli-F\B2763\2B2763.MIT
+	SeaStar 8.39
+	Date & Time: 23.05.2020 21:23:03
+	----------------------------------------------------
+	Recorder type             : DST milli-F
+	Recorder number           : B2763
+	Recorder version          : 15  DM/CRC16/4800
+	Recorder measures         : Temperature & Pressure
+	Memory capacity(Meas/Byte): 699050 / 2097152
+	Measurement seq. number   : 2
+	----------------------------------------------
+
+	Retrieved according to    : Recorder definition
+	Communication statistics
+		Requested bytes  : 180645
+		Received bytes   : 180645
+		Requested packs  : 706
+		Received packs   : 706
+		Re-sent packs    : 0
+		Empty packs      : 0
+		Number of errors : 0
+	----------------------------------------------
+
+	Recorder initiation time : 08.12.2019 13:52:29
+	Measurement start time   : 08.12.2019 13:54:00
+	PC connection time       : 23.05.2020 21:16:27
+	Data retrieval time      : 23.05.2020 21:23:03
+	Status (7)               : Measuring OK
+	Recorder mode            : Measurement mode
+	Measurements           Number    Mem.used(%)
+	----------------------------------------------
+	Temperature            60215          4      
+	Pressure               60215          4      
+	Measurement time (days:hours) : 167:6
+	Memory used Byte / (%)        : 180645  /  9
+
+	Estimated battery life calculations
+	       At initiation time (%) :  95,1
+	     At connection time (%) :  81,4
+	            Remaining now (%) :  81,4
+	CRC test on MID          : Enabled
+	----------------------------------------------
+
+
+	Measurement start time     : 08.12.2019 13:54:00
+	----------------------------------------------
+
+	Measurement settings:  [dd:hh:mm:ss] x number  Secondary     TD-P/S         Burst
+	                                               x primary     Selection           
+	---------------------------------------------------------------------------------
+	Start delay          :  00:00:01:31
+	1. interval period   :     00:04:00  x  65520      0          TD normal                 
+
+	Measurement interval sequence: 1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+
+	    Statistical Data
+	----------------------------
+
+	Unit value statistics
+	Parameter             Nr.Meas.       Mem.used(%)      Min        Max    Average     Median
+	------------------------------------------------------------------------------------------
+	Temperature(°C)          60215         4,31          -1,0       29,7        8,2       14,3
+	Depth(m)                 60215         4,31          -0,9       15,9        4,0        7,5
+
+	Decimal value statistics
+	Parameter             Nr.Points      Bytes used       Min        Max    Average     Median
+	------------------------------------------------------------------------------------------
+	Temp-bin                 60215        90322          1593       2548       2295       2070
+	Press-bin                60215        90322           259       1081        500        670

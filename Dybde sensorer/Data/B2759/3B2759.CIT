@@ -1,0 +1,86 @@
+	Filename: C:\Software\Star-Oddi\SeaStar\DST milli-F\B2759\3B2759.MID
+	SeaStar 8.39
+	Description: 
+	----------------------------------------------
+	Recorder type                  : DST milli-F
+	Recorder number                : B2759
+	Recorder version               : 15  DM/CRC16/4800
+	Recorder measures              : Temperature & Pressure
+	Memory capacity                : 699050
+	Memory capacity(Meas/Byte)     : 699050 / 2097152
+	Measurement sequence number    : 3
+	Convertion number              : 0
+	Recorder initiation time       : 27.10.2019 14:28:41
+	Measurement start time         : 30.10.2019 01:00:00
+	Time of conversion             : 23.05.2020 22:03:24
+	----------------------------------------------
+
+	Conversion type                : Upload conversion
+	Calibration constants used     : from MID-file
+	Number of measurements         : 74458
+	Total mesurement time          : 209:6:23:19
+	Measurements read from DAD     : 74458
+	Converted measurements         : 74458
+
+	Data file settings
+	----------------------------------------------
+	Temperature unit               : (°C) Celcius
+	Temperature number of decimals : 2
+	No Temperature offset adjustment
+	Pressure unit                  : (m) Depth
+	Gravitational Acceleration (g) : 9,807
+	Conversion = Seawater density  : 1,026
+	No Pressure offset adjustment
+	Pressure number of decimals    : 2
+	Decimal point                  : , (comma)
+	Date format                    : [dmy] (day month year)
+	Date separation                : . (dot)
+	Time separation                : : (colon)
+	Field separation               : Tab
+
+
+	Out Of Range DV (Decimal Value) Limits
+	--------------------------------------
+	RID: Temperature Calibration limits: 1251 - 2581
+	RID: Pressure Calibration limits:  334 - 2777
+
+	Out Of Range UV (Unit Value) Limits (User Def.)
+	-----------------------------------------------
+	Temperature limits (°C)   : -5 - 55
+	Pressure/depth limits (m): 0 - 900
+
+	Out Of Range settings and values
+	---------------------------------
+	DV OOR detection method: RID values
+	DV correction method   : No correction
+	UV correction method   : No correction
+
+	Out Of Range Overall Results
+	----------------------------
+	Temperature OORS
+	DV-OORS detected :  142
+	DV-OORS corrected:  0
+	UV-OORS detected :  0
+	UV-OORS corrected:  0
+
+	Pressure OORS
+	DV-OORS detected :  34884
+	DV-OORS corrected:  0
+	UV-OORS detected :  33883
+	UV-OORS corrected:  0
+
+
+	    Statistical Data
+	----------------------------
+
+	Unit value statistics
+	Parameter             Nr.Meas.       Mem.used(%)      Min        Max    Average     Middle
+	------------------------------------------------------------------------------------------
+	Temperature(°C)          74458         5,33          -4,4       28,8       10,7       12,2
+	Depth(m)                 74458         5,33          -0,6       15,4        3,3        7,4
+
+	Decimal value statistics
+	Parameter             Nr.Points      Bytes used       Min        Max    Average     Middle
+	------------------------------------------------------------------------------------------
+	Temp-bin                 74458       111687          1623       2630       2219       2126
+	Press-bin                74458       111687           289       1095        504        692
