@@ -43,9 +43,11 @@ df.sort_values(by="timestamp", inplace=True)
 print(df)
 
 with open("all_shackles_preprocessed.txt", 'w') as f:
+    print("saving to csv")
     df_csv = df.to_csv(header=True, index=False, lineterminator="\n")
     f.write(df_csv)
 
 with open("./shackles_preprocess/all_shackles_preprocessed_not_csv.txt", 'w') as f:
+    print("saving to string")
     df_string = df.to_string(header=True, index=False)
     f.write(df_string)

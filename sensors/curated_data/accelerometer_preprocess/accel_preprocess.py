@@ -38,9 +38,11 @@ df.sort_values(by="timestamp", inplace=True)
 print(df)
 
 with open("all_accel_preprocessed.txt", 'w') as f:
+    print("saving to csv")
     df_csv = df.to_csv(header=True, index=False, lineterminator="\n")
     f.write(df_csv)
 
 with open("./accelerometer_preprocess/all_accel_preprocessed_not_csv.txt", 'w') as f:
+    print("saving to string")
     df_string = df.to_string(header=True, index=False)
     f.write(df_string)
